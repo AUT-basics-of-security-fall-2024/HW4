@@ -66,8 +66,8 @@ The **requests-kerberos** library integrates **Kerberos** authentication with Py
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AUT-basics-of-security-fall-2024/HW2.git
-   cd HW2
+   git clone https://github.com/AUT-basics-of-security-fall-2024/HW4.git
+   cd HW4
    ```
 
 2. Install the dependencies:
